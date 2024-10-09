@@ -43,7 +43,7 @@ Ensure that you have the following dependencies installed to run the project:
 ## Running the Program
 
 1. Ensure your camera is connected.
-2. Connect the serial device (e.g., Arduino, microcontroller, for testing camera its optional) to your machine.
+2. Connect the serial device (e.g., Arduino, MPS, PLC, microcontroller, for test the camera its optional) to your machine.
 3. Run the main Python script:
    ```bash
    python fingercount.py
@@ -70,6 +70,8 @@ Ensure that you have the following dependencies installed to run the project:
    - Uses a 0.5-second delay between sends to ensure smooth communication.
 
 ### Sample Output
+
+![Screenshot 2024-10-09 143324](https://github.com/user-attachments/assets/5ca1c8ba-2f55-4470-9c52-338f1c353381)
 
 - The program displays the webcam feed with a bounding box around detected hands.
 - It displays the type of hand detected (left or right) and the number of fingers raised.
