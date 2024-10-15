@@ -1,4 +1,4 @@
-# Hand Recognition for MPS Handling and Distribution using OpenCV
+# Remote Item Request System with MPS Distribution and Finger Count Detection Using OpenCV
 
 This project is designed to recognize hand gestures using a webcam and Mediapipe's hand detection model, integrated with OpenCV. The program counts the number of fingers visible and sends this data over a serial communication interface (e.g., to control microcontroller-based systems). The program is optimized for real-time hand recognition and efficiently handles serial communication without repeated or redundant transmission of data.
 
