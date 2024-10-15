@@ -81,7 +81,7 @@ Ensure that you have the following dependencies installed to run the project:
 
 This project is ideal for applications where hand gestures need to be interpreted by a microcontroller or other hardware via serial communication. For example:
 
-- **Industrial MPS Handling**: The system can be used to control and monitor machines, signal distributions, or commands using hand gestures.
+- **Industrial MPS Distribution and MPS Handling**: The system can be used to control and monitor machines, signal distributions, or commands using hand gestures.
 - **Control Interfaces**: Replace physical buttons with gesture controls, providing a touch-free interface.
 - **Automation Systems**: Use hand recognition to trigger certain actions in automation or robotics.
 
